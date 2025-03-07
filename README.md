@@ -13,9 +13,7 @@ L'obiettivo di questo repository è fornire un punto di riferimento per gli stud
 
 ## Perchè?
 
-Ho deciso di rendere pubblici questi file perché ritengo sia estremamente importante avere accesso a materiale di riferimento per un corso così complesso. Spesso gli studenti vengono "lasciati in alto mare" senza una guida chiara, e avere esempi concreti può fare la differenza nella comprensione della materia.
-
-Utilizzate questo repository come strumento di apprendimento, confronto e ispirazione, non come scorciatoia.
+Ho deciso di rendere pubblici questi file perché ritengo sia estremamente importante avere accesso a materiale di riferimento per un corso così complesso. Spesso gli studenti vengono "lasciati in alto mare" senza una guida chiara, e avere esempi concreti può fare la differenza nella comprensione della materia. Utilizzate questo repository come strumento di apprendimento, confronto e ispirazione, non come scorciatoia.
 
 ## Contenuti
 
