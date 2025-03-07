@@ -11,7 +11,7 @@ L'obiettivo di questo repository è fornire un punto di riferimento per gli stud
 - **Il semplice copia-incolla non è consigliato**: Anche riuscendo a consegnare tutti i laboratori copiando, superare l'esame finale risulterebbe praticamente impossibile.
 - **Presenza di errori**: Alcuni esercizi potrebbero contenere errori. Per esempio, nel Lab 3 il sistema di calcolo dell'overflow nel sommatore non funziona come dovrebbe.
 
-## Motivazione
+## Perchè?
 
 Ho deciso di rendere pubblici questi file perché ritengo sia estremamente importante avere accesso a materiale di riferimento per un corso così complesso. Spesso gli studenti vengono "lasciati in alto mare" senza una guida chiara, e avere esempi concreti può fare la differenza nella comprensione della materia.
 
