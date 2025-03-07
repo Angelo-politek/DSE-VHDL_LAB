@@ -22,7 +22,7 @@ Il repository include tutti i laboratori di VHDL svolti durante il corso, con re
 
 ## Spoiler
 
-Se qualcuno è interessato ad un esempio pratico di tutto questo recentemente ho realizzato un semplice sintetizzatore audio AM fatto completamente in VHDL: [text](https://github.com/Angelo-politek/PWM_Audio_Synth-VHDL.git).
+Se qualcuno è interessato ad un esempio pratico di tutto questo recentemente ho realizzato un semplice sintetizzatore audio AM fatto completamente in VHDL: [PWM_Audio_Synth-VHDL](https://github.com/Angelo-politek/PWM_Audio_Synth-VHDL.git).
 Pubblicherò a breve un repository di una drum machine.
 
 ## Contributi
